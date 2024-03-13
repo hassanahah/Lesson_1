@@ -4,3 +4,9 @@
 
 <div dir="rtl">
 </div>
+
+<ul dir="rtl">
+  <li>زبان</li>
+  <li>مقیاس‌پذیری</li>
+  <li>طراحی اسکیما</li>
+</ul>
